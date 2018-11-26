@@ -2,7 +2,7 @@
 <DashboardFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>samanthap+oob2@iava.org</sharedTo>
+        <sharedTo>samanthap+ni@iava.org</sharedTo>
         <sharedToType>User</sharedToType>
     </folderShares>
     <name>NPSP 3.0 Donor Management Dashboard</name>

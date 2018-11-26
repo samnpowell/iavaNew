@@ -134,6 +134,16 @@
         </picklistValues>
     </fields>
     <fields>
+        <label><!-- Level --></label>
+        <name>Level__c</name>
+        <relationshipLabel><!-- Contacts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Previous Level --></label>
+        <name>Previous_Level__c</name>
+        <relationshipLabel><!-- Contacts (Previous Level) --></relationshipLabel>
+    </fields>
+    <fields>
         <help>Die alternative E-Mail-Adresse ist eine optionale vierte E-Mail-Adresse: Keine persönliche, bevorzugte oder Büro-E-Mail-Adresse</help>
         <label><!-- Alternate Email --></label>
         <name>npe01__AlternateEmail__c</name>

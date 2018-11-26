@@ -6,15 +6,15 @@
     <dashboardFilters>
         <dashboardFilterOptions>
             <operator>equals</operator>
-            <values>0121U000000oqE8</values>
+            <values>0121U000000ANnO</values>
         </dashboardFilterOptions>
         <dashboardFilterOptions>
             <operator>equals</operator>
-            <values>0121U000000D7MS</values>
+            <values>0121U000000CqTe</values>
         </dashboardFilterOptions>
         <dashboardFilterOptions>
             <operator>equals</operator>
-            <values>0121U000000D7MT</values>
+            <values>0121U000000CqTf</values>
         </dashboardFilterOptions>
         <name>Opportunity Record Type</name>
     </dashboardFilters>
@@ -127,7 +127,7 @@
             <useReportChart>true</useReportChart>
         </components>
     </rightSection>
-    <runningUser>samanthap+oob2@iava.org</runningUser>
+    <runningUser>samanthap+ni@iava.org</runningUser>
     <textColor>#000000</textColor>
     <title>NPSP Donation Forecasting Dashboard</title>
     <titleColor>#000000</titleColor>

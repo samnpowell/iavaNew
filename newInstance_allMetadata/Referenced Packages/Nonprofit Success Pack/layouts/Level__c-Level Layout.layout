@@ -127,6 +127,30 @@
         <fields>npo02__TotalOppAmount__c</fields>
         <relatedList>Account.Previous_Level__c</relatedList>
     </relatedLists>
+    <relatedLists>
+        <fields>FULL_NAME</fields>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>CONTACT.PHONE4</fields>
+        <fields>CONTACT.PHONE1</fields>
+        <fields>CONTACT.PHONE3</fields>
+        <fields>CONTACT.EMAIL</fields>
+        <fields>CONTACT.ADDRESS2_STREET</fields>
+        <fields>CONTACT.ADDRESS2_CITY</fields>
+        <fields>CONTACT.ADDRESS2_STATE</fields>
+        <relatedList>Contact.Level__c</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>FULL_NAME</fields>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>CONTACT.PHONE4</fields>
+        <fields>CONTACT.PHONE1</fields>
+        <fields>CONTACT.PHONE3</fields>
+        <fields>CONTACT.EMAIL</fields>
+        <fields>CONTACT.ADDRESS2_STREET</fields>
+        <fields>CONTACT.ADDRESS2_CITY</fields>
+        <fields>CONTACT.ADDRESS2_STATE</fields>
+        <relatedList>Contact.Previous_Level__c</relatedList>
+    </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>

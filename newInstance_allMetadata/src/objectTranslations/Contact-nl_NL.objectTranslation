@@ -134,6 +134,16 @@
         </picklistValues>
     </fields>
     <fields>
+        <label><!-- Level --></label>
+        <name>Level__c</name>
+        <relationshipLabel><!-- Contacts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Previous Level --></label>
+        <name>Previous_Level__c</name>
+        <relationshipLabel><!-- Contacts (Previous Level) --></relationshipLabel>
+    </fields>
+    <fields>
         <help>Alternatieve E-mail is een optionele vierde E-mail: Niet persoonlijk, voorkeur, of werk E-mail</help>
         <label><!-- Alternate Email --></label>
         <name>npe01__AlternateEmail__c</name>
