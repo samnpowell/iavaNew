@@ -56,15 +56,23 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Cultivation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Declined</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Pledged</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Posted</fullName>
+            <fullName>Prospecting</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Prospecting</fullName>
+            <fullName>Solicitation</fullName>
             <default>false</default>
         </values>
         <values>
@@ -84,15 +92,19 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>LOI Submitted</fullName>
+            <fullName>Closed Lost</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Prospecting</fullName>
+            <fullName>Pledged</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Withdrawn</fullName>
+            <fullName>Proposal%2FAsk Prep</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Qualification</fullName>
             <default>false</default>
         </values>
     </businessProcesses>
@@ -100,27 +112,7 @@
         <fullName>In-Kind Gift</fullName>
         <isActive>true</isActive>
         <values>
-            <fullName>Cultivating</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>In-Kind Not Yet Received</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>In-Kind Received</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Withdrawn</fullName>
-            <default>false</default>
-        </values>
-    </businessProcesses>
-    <businessProcesses>
-        <fullName>Major Gift</fullName>
-        <isActive>true</isActive>
-        <values>
-            <fullName>Awarded</fullName>
+            <fullName>Closed Lost</fullName>
             <default>false</default>
         </values>
         <values>
@@ -128,19 +120,47 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Declined</fullName>
+            <fullName>In-Kind Received</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Identification</fullName>
+            <fullName>Pledged</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Posted</fullName>
+            <fullName>Proposal%2FAsk Prep</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Proposal%2FReview</fullName>
+            <fullName>Prospecting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Solicitation</fullName>
+            <default>false</default>
+        </values>
+    </businessProcesses>
+    <businessProcesses>
+        <fullName>Major Gift</fullName>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed Lost</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed Won</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cultivation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pledged</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Proposal%2FAsk Prep</fullName>
             <default>false</default>
         </values>
         <values>
@@ -149,10 +169,6 @@
         </values>
         <values>
             <fullName>Solicitation</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Verbal Commitment</fullName>
             <default>false</default>
         </values>
     </businessProcesses>
