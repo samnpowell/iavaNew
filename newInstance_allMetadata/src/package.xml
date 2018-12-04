@@ -147,16 +147,16 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>CompanyDashboards</members>
-        <members>CompanyDashboards/AdoptionDashboard</members>
-        <members>CompanyDashboards/CompanyPerformanceDashboard</members>
-        <members>NPSP3_Membership_Management_Dashboard</members>
-        <members>NPSP3_Membership_Management_Dashboard/NPSP3_Membership_Dashboard</members>
         <members>NPSP3_Donor_Management_Dashboard</members>
         <members>NPSP3_Donor_Management_Dashboard/NPSP3_Campaign_Metrics</members>
         <members>NPSP3_Donor_Management_Dashboard/NPSP3_Donation_Forecasting_Dashboard</members>
+        <members>CompanyDashboards</members>
+        <members>CompanyDashboards/AdoptionDashboard</members>
+        <members>CompanyDashboards/CompanyPerformanceDashboard</members>
         <members>NPSP3_Grants_Management_Dashboard</members>
         <members>NPSP3_Grants_Management_Dashboard/NPSP3_Grants_Management_Dashboard</members>
+        <members>NPSP3_Membership_Management_Dashboard</members>
+        <members>NPSP3_Membership_Management_Dashboard/NPSP3_Membership_Dashboard</members>
         <members>NPSP_Dashboards</members>
         <members>NPSP_Dashboards/Development_Analysis</members>
         <members>NPSP_Dashboards/Development_Forecasting</members>
@@ -228,52 +228,6 @@
         <name>QuickAction</name>
     </types>
     <types>
-        <members>NPSP_Constituent_Reports</members>
-        <members>NPSP_Constituent_Reports/All_Contacts</members>
-        <members>NPSP_Constituent_Reports/All_Organizations</members>
-        <members>NPSP_Constituent_Reports/All_Relationships</members>
-        <members>NPSP_Constituent_Reports/Current_Members_Contacts</members>
-        <members>NPSP_Constituent_Reports/Engagement_Plan_Tasks</members>
-        <members>NPSP_Constituent_Reports/Lapsed_Members_Contacts</members>
-        <members>NPSP_Constituent_Reports/Memberships_Over_Time</members>
-        <members>NPSP_Constituent_Reports/New_Members</members>
-        <members>NPSP_Constituent_Reports/New_Renewals</members>
-        <members>NPSP3_Membership_Management_Reports</members>
-        <members>NPSP3_Membership_Management_Reports/NPSP3_Current_Membership</members>
-        <members>NPSP3_Membership_Management_Reports/NPSP3_Lapsed_Membership_Report</members>
-        <members>NPSP3_Membership_Management_Reports/NPSP3_Membership_End_Dates_by_Month</members>
-        <members>NPSP3_Membership_Management_Reports/NPSP3_New_Members</members>
-        <members>NPSP3_Membership_Management_Reports/NPSP3_Renewing_Members</members>
-        <members>NPSP3_Grants_Management_Reports</members>
-        <members>NPSP3_Grants_Management_Reports/NPSP3_Grant_Pipeline_Planning</members>
-        <members>NPSP3_Grants_Management_Reports/NPSP3_Institutional_Fundraising_Goal_this_year</members>
-        <members>NPSP3_Grants_Management_Reports/NPSP3_Organizations_with_Grants</members>
-        <members>NPSP3_Grants_Management_Reports/NPSP3_Total_Grants_Received</members>
-        <members>NPSP3_Grants_Management_Reports/NPSP3_Total_Grants_Received_This_Year</members>
-        <members>NPSP_Dashboard_Reports</members>
-        <members>NPSP_Dashboard_Reports/DASH_Campaign_ROI_Analysis</members>
-        <members>NPSP_Dashboard_Reports/DASH_Delinquent_Accounts</members>
-        <members>NPSP_Dashboard_Reports/DASH_Expected_Payments_Next_90_Days</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_GAU_Last_Three_Years</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_GAU_This_Year2</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Households_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Organizations_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Record_Type_Last_Three_Years</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Record_Type_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_Range_Last_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Giving_Range_Two_Years_Ago</members>
-        <members>NPSP_Dashboard_Reports/DASH_Household_Gifts_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_LYBUNT_Households</members>
-        <members>NPSP_Dashboard_Reports/DASH_LYBUNT_Organizations</members>
-        <members>NPSP_Dashboard_Reports/DASH_Most_Recent_Gifts_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_by_Campaign</members>
-        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_by_Stage</members>
-        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_Month_Stage</members>
-        <members>NPSP_Dashboard_Reports/DASH_Organization_Gifts_This_Year</members>
-        <members>NPSP_Dashboard_Reports/DASH_Overdue_Payments</members>
-        <members>NPSP_Dashboard_Reports/DASH_SYBUNT_Households</members>
-        <members>NPSP_Dashboard_Reports/DASH_SYBUNT_Organizations</members>
-        <members>NPSP_Dashboard_Reports/Giving_Range_This_Year</members>
         <members>unfiled$public</members>
         <members>unfiled$public/SampleReportActiveUsers</members>
         <members>unfiled$public/SampleReportCasesStatusbyRep</members>
@@ -306,6 +260,36 @@
         <members>unfiled$public/SampleReportSolutionsAdded</members>
         <members>unfiled$public/SampleReportTopAccounts</members>
         <members>unfiled$public/SampleReportUsersLoggedIn</members>
+        <members>NPSP3_Grants_Management_Reports</members>
+        <members>NPSP3_Grants_Management_Reports/NPSP3_Grant_Pipeline_Planning</members>
+        <members>NPSP3_Grants_Management_Reports/NPSP3_Institutional_Fundraising_Goal_this_year</members>
+        <members>NPSP3_Grants_Management_Reports/NPSP3_Organizations_with_Grants</members>
+        <members>NPSP3_Grants_Management_Reports/NPSP3_Total_Grants_Received</members>
+        <members>NPSP3_Grants_Management_Reports/NPSP3_Total_Grants_Received_This_Year</members>
+        <members>NPSP_Dashboard_Reports</members>
+        <members>NPSP_Dashboard_Reports/DASH_Campaign_ROI_Analysis</members>
+        <members>NPSP_Dashboard_Reports/DASH_Delinquent_Accounts</members>
+        <members>NPSP_Dashboard_Reports/DASH_Expected_Payments_Next_90_Days</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_GAU_Last_Three_Years</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_GAU_This_Year2</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Households_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Organizations_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Record_Type_Last_Three_Years</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_by_Record_Type_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_Range_Last_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Giving_Range_Two_Years_Ago</members>
+        <members>NPSP_Dashboard_Reports/DASH_Household_Gifts_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_LYBUNT_Households</members>
+        <members>NPSP_Dashboard_Reports/DASH_LYBUNT_Organizations</members>
+        <members>NPSP_Dashboard_Reports/DASH_Most_Recent_Gifts_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_by_Campaign</members>
+        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_by_Stage</members>
+        <members>NPSP_Dashboard_Reports/DASH_Opportunity_Pipeline_Month_Stage</members>
+        <members>NPSP_Dashboard_Reports/DASH_Organization_Gifts_This_Year</members>
+        <members>NPSP_Dashboard_Reports/DASH_Overdue_Payments</members>
+        <members>NPSP_Dashboard_Reports/DASH_SYBUNT_Households</members>
+        <members>NPSP_Dashboard_Reports/DASH_SYBUNT_Organizations</members>
+        <members>NPSP_Dashboard_Reports/Giving_Range_This_Year</members>
         <members>NPSP_Fundraising_Reports</members>
         <members>NPSP_Fundraising_Reports/Account_LYBUNT</members>
         <members>NPSP_Fundraising_Reports/Account_SYBUNT</members>
@@ -379,6 +363,22 @@
         <members>NPSP3_Donor_Management_Reports/NPSP3_TotalGifts_by_Household_State</members>
         <members>NPSP3_Donor_Management_Reports/NPSP3_TotalGifts_by_Household_Zip</members>
         <members>NPSP3_Donor_Management_Reports/NPSP3_TOTALGIFTS_by_Household_Zip_This_Year</members>
+        <members>NPSP_Constituent_Reports</members>
+        <members>NPSP_Constituent_Reports/All_Contacts</members>
+        <members>NPSP_Constituent_Reports/All_Organizations</members>
+        <members>NPSP_Constituent_Reports/All_Relationships</members>
+        <members>NPSP_Constituent_Reports/Current_Members_Contacts</members>
+        <members>NPSP_Constituent_Reports/Engagement_Plan_Tasks</members>
+        <members>NPSP_Constituent_Reports/Lapsed_Members_Contacts</members>
+        <members>NPSP_Constituent_Reports/Memberships_Over_Time</members>
+        <members>NPSP_Constituent_Reports/New_Members</members>
+        <members>NPSP_Constituent_Reports/New_Renewals</members>
+        <members>NPSP3_Membership_Management_Reports</members>
+        <members>NPSP3_Membership_Management_Reports/NPSP3_Current_Membership</members>
+        <members>NPSP3_Membership_Management_Reports/NPSP3_Lapsed_Membership_Report</members>
+        <members>NPSP3_Membership_Management_Reports/NPSP3_Membership_End_Dates_by_Month</members>
+        <members>NPSP3_Membership_Management_Reports/NPSP3_New_Members</members>
+        <members>NPSP3_Membership_Management_Reports/NPSP3_Renewing_Members</members>
         <name>Report</name>
     </types>
     <types>

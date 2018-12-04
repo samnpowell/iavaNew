@@ -127,7 +127,7 @@
             <useReportChart>true</useReportChart>
         </components>
     </rightSection>
-    <runningUser>samanthap+ni@iava.org</runningUser>
+    <runningUser>samanthap@iava.org.ni</runningUser>
     <textColor>#000000</textColor>
     <title>NPSP Donation Forecasting Dashboard</title>
     <titleColor>#000000</titleColor>

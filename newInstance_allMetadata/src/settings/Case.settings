@@ -7,9 +7,9 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
-    <defaultCaseOwner>samanthap+ni@iava.org</defaultCaseOwner>
+    <defaultCaseOwner>samanthap@iava.org.ni</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>samanthap+ni@iava.org</defaultCaseUser>
+    <defaultCaseUser>samanthap@iava.org.ni</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
